@@ -2,6 +2,12 @@
 
 .product-card {
     /* Centrer la carte, largeur 300px, bordure grise, coins arrondis, padding 20px */
+    margin: auto; 
+    height: auto;
+    width: 300px;
+    padding: 20px;
+    border: 5px solid #606060; /* Crée un cadre de 5px d'épaisseur */
+    border-radius: 10px; /* arrondi les bords du cadre */
 }
 
 .product-card img {
